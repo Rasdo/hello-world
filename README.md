@@ -1,2 +1,4 @@
 # hello-world
-initial test repository
+
+Welcome everyone! This is my initial test repository.
+
